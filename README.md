@@ -1,4 +1,4 @@
-# 🎯 pd-ikigai — AI Business Idea Finder
+# 🎯 huge-ikigai — AI Business Idea Finder
 
 > A Claude skill that acts as your personal business coach — guiding you from "I don't know what to sell" to a validated business idea with a niche, unfair advantage, offer, and pricing in 25–35 minutes.
 
