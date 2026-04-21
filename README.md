@@ -47,7 +47,7 @@ The more specific your answers, the better your result. Claude will push back if
 ```
 huge-ikigai/
 ├── README.md          ← You are here
-├── pd-ikigai.skill    ← Upload this to Claude
+├── huge-ikigai.skill    ← Upload this to Claude
 └── SKILL.md           ← Raw skill instructions (readable)
 ```
 
